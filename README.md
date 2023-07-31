@@ -1,2 +1,2 @@
-# CV
-Welcome, Here is my CV including my entire education and what I have concentrated to learn and practice. Programming is the funnest thing I found in my life ~
+# My CV
+Welcome to my repository and watch my CV. Here has included my entire education route, and what I have done and concentrated to learn and practice. To be honest, programming is the funnest thing I found in my life ~
